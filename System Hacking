@@ -2,5 +2,5 @@ If the values of key metrics are not within the expected range, it's important t
 The decisions may vary based on the specific metric and its significance to the safety and security of the bank system. 
 Here are general steps and decisions that might be Root Cause Analysis:
 
-Action: Investigate the underlying causes of the metric deviation.
+Action: Investigate the underlying causes of the metric deviation
 Decision: Identify whether the issue is due to a one-time anomaly or a systemic problem. This analysis helps in understanding the nature of the deviation.
